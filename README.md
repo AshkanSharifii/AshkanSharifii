@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Ashkan
-### 🚀 DevOps Engineer | Backend Developer | Cloud Architect
+### 🚀 DevOps Engineer | Backend Developer
 
 <div align="center">
   
