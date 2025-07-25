@@ -3,7 +3,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Backend+Developer;FastAPI+Expert;Kubernetes+Specialist;Python+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Backend+Developer;FastAPI;Kubernetes;Python)](https://git.io/typing-svg)
 
 </div>
 
@@ -58,9 +58,7 @@ specialties:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📊 Monitoring & Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Jaeger](https://img.shields.io/badge/jaeger-%23F7931E.svg?style=for-the-badge&logo=jaeger&logoColor=white)
 
 ## 🔥 Current Projects & Focus
 
