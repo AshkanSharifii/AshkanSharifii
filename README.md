@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm Ashkan
 ### 🚀 DevOps Engineer | Backend Developer | Cloud Architect
 
 <div align="center">
@@ -26,9 +26,6 @@ specialties:
   devops: "Kubernetes + Docker + Istio"
   api_management: "Nginx + Kong"
   scripting: "Python + Bash"
-collaboration: "Open source projects"
-pronouns: "he/him" # Update as needed
-fun_fact: "I build APIs faster than I can break them (usually) 🚀"
 ```
 
 ## 🛠️ Tech Stack & Tools
@@ -84,7 +81,5 @@ fun_fact: "I build APIs faster than I can break them (usually) 🚀"
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/[YOUR_TWITTER])
 
 ---
-
-**"FastAPI + Kubernetes + Databases = Full-Stack Magic! ⚡☸️🗄️"** 🚀
 
 </div>
